@@ -1,3 +1,2 @@
 
-public class Flower extends BouquetOfFlowers {
-}
+class Flower {}

@@ -1,6 +1,6 @@
 
-public class Directory {
-    class File();
+class Directory {
+     File  file;
 }
 
 

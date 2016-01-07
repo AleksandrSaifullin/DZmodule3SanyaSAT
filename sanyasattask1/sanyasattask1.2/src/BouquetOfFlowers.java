@@ -1,4 +1,4 @@
 
-public class BouquetOfFlowers {
-    class Flower ();
+class BouquetOfFlowers {
+    Flower flower;
 }

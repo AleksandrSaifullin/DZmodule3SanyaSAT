@@ -1,3 +1,2 @@
 
-public class Guitar extends MusicalInstrument {
-}
+class Guitar extends MusicalInstrument {}

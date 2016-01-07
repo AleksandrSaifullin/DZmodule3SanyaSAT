@@ -1,5 +1,3 @@
 
-public class Text extends File  {
-
-    }
+class Text extends File  {}
 

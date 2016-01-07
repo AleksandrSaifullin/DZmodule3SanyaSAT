@@ -1,5 +1,2 @@
 
-public class Audio extends File {
-
-
-}
+class Audio extends File {}

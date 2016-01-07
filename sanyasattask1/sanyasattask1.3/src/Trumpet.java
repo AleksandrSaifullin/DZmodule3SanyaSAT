@@ -1,3 +1,2 @@
 
-public class Trumpet extends MusicalInstrument {
-}
+class Trumpet extends MusicalInstrument {}

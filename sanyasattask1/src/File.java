@@ -1,8 +1,5 @@
 
-public class File extends Directory {
-
-
-}
+class File {}
 
 
 

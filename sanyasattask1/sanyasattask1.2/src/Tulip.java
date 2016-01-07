@@ -1,3 +1,2 @@
 
-public class Tulip extends Flower {
-}
+class Tulip extends Flower {}

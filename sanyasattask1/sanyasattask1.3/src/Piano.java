@@ -1,3 +1,2 @@
 
-public class Piano extends MusicalInstrument {
-}
+class Piano extends MusicalInstrument {}

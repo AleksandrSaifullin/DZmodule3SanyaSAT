@@ -1,3 +1,4 @@
-public class MusicShop {
-    class MusicalInstrument();
+
+class MusicShop {
+    MusicalInstrument musicalInstrument;
 }

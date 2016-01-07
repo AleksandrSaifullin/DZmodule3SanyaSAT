@@ -1,5 +1,3 @@
 
-public class Pictures extends File {
-
-}
+class Pictures extends File {}
 

@@ -1,5 +1,4 @@
 
-public class RoseBush extends Rose {
-    class Rose();
-
+class RoseBush  {
+     Rose rose;
 }

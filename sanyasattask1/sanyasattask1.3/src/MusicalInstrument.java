@@ -1,3 +1,2 @@
 
-public class MusicalInstrument extends MusicShop {
-}
+class MusicalInstrument {}

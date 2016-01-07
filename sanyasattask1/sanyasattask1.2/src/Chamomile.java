@@ -1,3 +1,2 @@
 
-public class Chamomile extends Flower {
-}
+class Chamomile extends Flower {}
