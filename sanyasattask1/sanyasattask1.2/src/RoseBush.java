@@ -1,4 +1,0 @@
-
-class RoseBush  {
-     Rose rose;
-}

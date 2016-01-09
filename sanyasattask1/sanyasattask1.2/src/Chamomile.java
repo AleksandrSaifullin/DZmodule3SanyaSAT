@@ -1,2 +1,0 @@
-
-class Chamomile extends Flower {}

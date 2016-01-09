@@ -1,4 +1,0 @@
-
-class MusicShop {
-    MusicalInstrument musicalInstrument;
-}

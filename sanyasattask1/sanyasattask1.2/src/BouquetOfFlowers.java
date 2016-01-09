@@ -1,4 +1,0 @@
-
-class BouquetOfFlowers {
-    Flower flower;
-}

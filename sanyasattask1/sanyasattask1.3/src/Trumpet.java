@@ -1,2 +1,0 @@
-
-class Trumpet extends MusicalInstrument {}

@@ -1,6 +1,0 @@
-
-class Directory {
-     File  file;
-}
-
-

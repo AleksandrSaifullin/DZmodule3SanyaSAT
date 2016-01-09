@@ -1,2 +1,0 @@
-
-class Piano extends MusicalInstrument {}
